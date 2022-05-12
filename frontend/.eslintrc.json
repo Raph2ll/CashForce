@@ -4,7 +4,7 @@
         "es2021": true
     },
     "extends": [
-        "trybe-frontend",
+        "eslint:recommended",
         "plugin:react/recommended"
     ],
     "parserOptions": {
@@ -17,6 +17,6 @@
     "plugins": [
         "react"
     ],
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx",
-    "rules": {}
+    "rules": {
+    }
 }
