@@ -179,11 +179,11 @@ Instale as dependencias e rode a aplicação
 
 ### [Tela proposta](https://www.figma.com/file/NY1fe6PAZ6DKeD9eOzyrju/Teste-Cashfroce?node-id=0%3A1)
 
-![Tela proposta](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tela proposta](https://user-images.githubusercontent.com/66336767/168182747-45dbdc22-2fac-4bb5-86d1-3571bf27036a.png)
 
 ### Tela final
 
-![Tela final](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Tela final](https://user-images.githubusercontent.com/66336767/168182899-09846d0d-1a94-49eb-be4f-7b52d401f086.png)
 
 ## Próximos passos
 
