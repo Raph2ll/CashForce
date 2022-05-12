@@ -26,7 +26,7 @@
 }
 
 .col-1 {
-  flex-basis: 10%;
+  flex-basis: 20%;
 }
 
 .col-2 {
@@ -46,7 +46,7 @@
 }
 
 .col-6 {
-  flex-basis: 10%;
+  flex-basis: 20%;
 }
 
 #value {
