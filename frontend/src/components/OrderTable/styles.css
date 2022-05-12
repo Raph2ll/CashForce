@@ -1,0 +1,70 @@
+.responsive-table li {
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.table-header {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #A1A8B8;
+}
+
+.table-row {
+  border-radius: 6px;
+  box-shadow: 0px 0px 1px 1px #DFE2EB;
+}
+
+.col {
+  padding: 6px;
+}
+
+.col-1 {
+  flex-basis: 10%;
+}
+
+.col-2 {
+  flex-basis: 10%;
+}
+
+.col-3 {
+  flex-basis: 10%;
+}
+
+.col-4 {
+  flex-basis: 10%;
+}
+
+.col-5 {
+  flex-basis: 10%;
+}
+
+.col-6 {
+  flex-basis: 10%;
+}
+
+#value {
+  color: #00AD8C;
+}
+
+div#status {
+  color: #00AD8C;
+}
+
+.col-7 {
+  flex-basis: 10%;
+}
+
+.col-7#transferor {
+  font-size: 12px;
+  padding: 6px;
+  text-align: center;
+  box-shadow: 0px 0px 1px 1px #CAD3FF;
+  border-radius: 24px;
+}
